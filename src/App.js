@@ -6,6 +6,8 @@ function App() {
     <>
       <Navbar/>
     <div className="App">
+    <h1>hi
+    </h1>
       <Shop/>
     </div>
     </>
